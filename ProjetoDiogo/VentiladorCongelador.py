@@ -22,5 +22,3 @@ class VentiladorCongelador:
     def desligar_ventilador(self):
         self.ventilador = "off"
         print("Ventilador desligado")
-
-
